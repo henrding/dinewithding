@@ -1,0 +1,372 @@
+﻿Date,Restaurant,Cuisine,Price ($-$$$),Rating (out of 10),Mood,Dish(es),Notes,Photo
+8/1/21,In & Out,American,$,7,Fast Food,Animal Style Cheeseburgers,Must try animal style!,photos/IMG_2.jpeg
+8/4/21,Pizza My Heart,Italian,$,9,Fast Food,Margherita Pizza,During marching band.,photos/IMG_3.jpeg
+8/5/21,Starbird,American,$,8,Fast Food,"Buffalo Wings, Korean BBQ Wings",,photos/IMG_4.jpeg
+8/8/21,Myungrang,Korean,$,10,Fast Food,Mozzerella Corn Dogs,Best with sugar!,photos/IMG_5.jpeg
+8/8/21,Yogurtland,American,$,7,Dessert,Original Tart,Mochi + popping boba combo,photos/IMG_6.jpeg
+8/10/21,Happy Lemon,Taiwanese,$,8,Drink,Oreo Crème Brulee,,photos/IMG_7.jpeg
+8/11/21,Starbucks,American,$,5,Drink,Kiwi Starfruit Refresher,,photos/IMG_8.jpeg
+8/15/21,Myungrang,Korean,$,10,Fast Food,Potato Corn Dogs,Lots of sugar,photos/IMG_9.jpeg
+8/29/21,Myungrang,Korean,$,9,Fast Food,Mozzerella Corn Dogs,More sugar,photos/IMG_10.jpeg
+9/26/21,TP Tea,Taiwanese,$,7,Drink,Milk Tea,,photos/IMG_11.jpeg
+10/8/21,Posh Bagel,American,$,9,Breakfast,"Chipotle Chicken Bagel, Thai Tea",,photos/IMG_12.jpeg
+10/11/21,KFC,American,$,5,Fast Food,KFC Famous Bowl,Too salty,photos/IMG_13.jpeg
+10/28/21,Posh Bagel,American,$,10,Breakfast,Jalapeno Bagel,With cream cheese,photos/IMG_14.jpeg
+11/6/21,Starbucks,American,$,7,Breakfast,"Double Smoked Bacon Sandwich, Snowman Cookie",Great pre-competition meal,photos/IMG_15.jpeg
+11/8/21,Main Street Burgers,American,$$,6,Fast Food,BBQ Bacon Burger,Marching band cancelled,photos/IMG_16.jpeg
+11/10/21,Posh Bagel,American,$,8,Drink,Thai Tea w/ Boba,,photos/IMG_17.jpeg
+11/13/21,ShareTea,Taiwanese,$,9,Drink,Tropical Fruit Tea,,photos/IMG_18.jpeg
+11/13/21,Pizza My Heart,Italian,$,7,Fast Food,Pepperoni Pizza,Filmed mukbang,photos/IMG_19.jpeg
+12/5/21,Sanraku,Japanese,$$,9,Casual,Salmon Avocado Roll,,photos/IMG_20.jpeg
+1/16/22,Myungrang,Korean,$,10,Fast Food,Mozzerella Corn Dogs,Served with chipotle mayo,photos/IMG_21.jpeg
+3/14/22,Los Gatos Diner,American,$$,7,Breakfast,Chocolate Chip Pancake,,photos/IMG_22.jpeg
+3/27/22,Anderson Bakery,American,$,6,Fast Food,Caprese Sandwich,,photos/IMG_23.jpeg
+3/27/22,Gong Cha,Taiwanese,$,7,Drink,Panda Milk Tea,,photos/IMG_24.jpeg
+3/27/22,Dunkin Donuts,American,$,5,Dessert,Six Donuts,Too sweet,photos/IMG_25.jpeg
+4/1/22,Rosy Yogurt,American,$,10,Dessert,Dole Whip Float,Refreshing,photos/IMG_26.jpeg
+4/7/22,ShareTea,Taiwanese,$,8,Drink,Passionfruit Tea,,photos/IMG_27.jpeg
+4/10/22,Teaspoon,Taiwanese,$,7,Drink,Guava Sunset Cooler,,photos/IMG_28.jpeg
+4/11/22,Udon Muzigo,Japanese,$$,9,Casual,"Curry Udon, Tempura Udon",Comforting ,photos/IMG_29.jpeg
+4/11/22,Mochill,Japanese,$,4,Dessert,Snickers Mochi Donut,Too chewy,photos/IMG_30.jpeg
+4/11/22,Somi Somi,Korean,$,7,Dessert,Upside Down Ahboong (Milk Cream),,photos/IMG_31.jpeg
+4/12/22,Cheesecake Factory,American,$$,8,Casual,Creamy Spicy Chipotle Pasta,Yummy with bread,photos/IMG_32.jpeg
+4/14/22,Kura Sushi,Japanese,$$,9,Casual,Various Sushi,,photos/IMG_33.jpeg
+4/17/22,Counter Burgers,American,$$,8,Fast Food,"Loaded Tots, Cheeseburger",,photos/IMG_34.jpeg
+4/23/22,Gong Cha,Taiwanese,$,6,Drink,Passionfruit Yogurt Smoothie,,photos/IMG_35.jpeg
+5/1/22,Myungrang,Korean,$,8,Fast Food,Potato Corn Dogs,,photos/IMG_36.jpeg
+5/8/22,85 Café,Taiwanese,$,5,Drink,Taro Milk Tea,,photos/IMG_37.jpeg
+5/8/22,Somi Somi,Korean,$,7,Dessert,Upside Down Ahboong (Chocolate),,photos/IMG_38.jpeg
+5/15/22,Clover Bakery,Japanese,$,10,Bakery,"Spaghetti Bread, Onirigi",,photos/IMG_39.jpeg
+5/15/22,Alexander Steakhouse,Japanese,$$$,9,Fine Dining,"Tempura Crab, Crab, Shishito Peppers, Filet Mignon",Dad's birthday,photos/IMG_40.jpeg
+5/15/22,Meet Fresh,Taiwanese,$$,9,Dessert,Strawberry Shaved Ice ,,photos/IMG_41.jpeg
+5/20/22,Tea Fermata,American,$,6,Drink,Dragon-o-Mango Smoothie,,photos/IMG_42.jpeg
+5/30/22,Pacific Catch,American,$$,8,Casual,"Coconut Shrimp, Fish and Chips, Salmon Bowl, hawaiianPlatter",,photos/IMG_43.jpeg
+5/30/22,Somi Somi,Korean,$,9,Dessert,Upside Down Ahboong (Matcha + Ube),,photos/IMG_44.jpeg
+6/2/22,Sarku Japan,Japanese,$,7,Fast Food,Beef Bento,Last day of sophomore year,photos/IMG_45.jpeg
+6/14/22,Cheesecake Factory,American,$$,7,Casual,Avocado Egg Rolls,Happy hour,photos/IMG_46.jpeg
+6/15/22,Teaspoon,Taiwanese,$,9,Drink,Strawberry Colada,,photos/IMG_47.jpeg
+6/15/22,Santouka Ramen,Japanese,$$,8,Fast Food,Miso Ramen,A little salty,photos/IMG_48.jpeg
+6/17/22,Pineapple Thai,Thai,$$,9,Casual,"Basil Chicken, Pad Thai",,photos/IMG_49.jpeg
+6/19/22,Coco Tea,Taiwanese,$,7,Drink,Yakult Tea,Father's day,photos/IMG_50.jpeg
+6/20/22,Starbucks,American,$,6,Drink,Chocolate Cold Brew,Haircut,photos/IMG_51.jpeg
+6/20/22,Happy Lemon,Taiwanese,$,7,Drink,Mango Slushy,,photos/IMG_52.jpeg
+6/21/22,Gen Korean BBQ,Korean,$$,8,Casual,Various Korean BBQ,,photos/IMG_53.jpeg
+6/21/22,Starbucks,American,$,4,Drink,Golden Ginger Refresher,Too strong,photos/IMG_54.jpeg
+6/22/22,Olive Garden,Italian,$$,7,Casual,"Baked Ziti, Salad, Breadsticks",Lunch special,photos/IMG_55.jpeg
+6/25/22,Oren's Hummus,Mediterranean,$$,9,Fast Food,Pita Falafel,Great with hot sauce,photos/IMG_56.jpeg
+6/25/22,85 Café,Taiwanese,$,8,Drink,"Mango Smoothie, Vietnamese Coffee",,photos/IMG_57.jpeg
+6/26/22,Shake Shack,American,$,9,Fast Food,"Cheeseburger, Cheese Fries",,photos/IMG_58.jpeg
+6/26/22,Rabbit Rabbit Tea,Taiwanese,$,8,Drink,Fresh Fruit Tea,,photos/IMG_59.jpeg
+7/1/22,Meet Fresh,Taiwanese,$,7,Drink,Brown Sugar Boba Milk Tea,,photos/IMG_60.jpeg
+7/2/22,Taro San,Japanese,$$,10,Casual,"Hiyashi Chuka, Seasonal Truffle Udon",,photos/IMG_61.jpeg
+7/2/22,Pinkberry,American,$,8,Dessert,Mango Frozen Yogurt,,photos/IMG_62.jpeg
+7/3/22,H.L Peninsula,Cantonese,$$,7,Dim Sum,"Lobster, Shumai",,photos/IMG_63.jpeg
+7/3/22,Jollibee,Filipino,$,5,Fast Food,"Spaghetti, Fried Chicken",Too greasy,photos/IMG_64.jpeg
+7/4/22,Tomi Sushi,Chinese,$$,8,Buffet,"Chinese Food, Sushi",,photos/IMG_65.jpeg
+7/4/22,Five Guys,American,$,9,Fast Food,"Little Cheeseburger, Cajun Fries",Manifested 5 on AP exam,photos/IMG_66.jpeg
+7/4/22,Baskin Robbins,American,$,9,Dessert,Oreo S'mores Ice Cream,,photos/IMG_67.jpeg
+7/5/22,Haidilao,Chinese,$$$,10,Hotpot,"Tomato, Spicy Soup",,photos/IMG_68.jpeg
+7/6/22,House of Pho,Vietnamese,$$,7,Casual,"Beef Pho, Pork Vermicelli",,photos/IMG_69.jpeg
+7/7/22,Kura Sushi,Japanese,$$,8,Casual,Various Sushi,,photos/IMG_70.jpeg
+7/10/22,Sanraku,Japanese,$$,8,Casual,Tonkatsu Bento,,photos/IMG_71.jpeg
+7/13/22,Clover Bakery,Japanese,$,9,Bakery,"Katsu Bread, Pizza Bread",,photos/IMG_72.jpeg
+7/13/22,Teaspoon,Taiwanese,$,9,Drink,Flamingo,,photos/IMG_73.jpeg
+7/13/22,Santouka Ramen,Japanese,$,7,Fast Food,Miso Ramen,,photos/IMG_74.jpeg
+7/14/22,Chili's,Tex-Mex,$,6,Casual,Cajun Shrimp Pasta,,photos/IMG_75.jpeg
+7/17/22,Duan Chun Zhen,Chinese,$$,9,Casual,Beef Noodle Soup,,photos/IMG_76.jpeg
+7/18/22,Almaden Sushi,Japanese,$$,7,Casual,Salmon Bento,,photos/IMG_77.jpeg
+7/19/22,Somi Somi,Korean,$,8,Dessert,Upside Down Ahboong (Strawberry),,photos/IMG_78.jpeg
+7/19/22,Pink Pink Tea Shoppe,Taiwanese,$,7,Drink,Grape Slushy w/ Cheese Foam,,photos/IMG_79.jpeg
+7/20/22,Hokkaido Buffet,Chinese,$$,6,Buffet,Various Sushi,,photos/IMG_80.jpeg
+7/21/22,Yi Fang Tea,Taiwanese,$,9,Drink,Yifang Fruit Tea,,photos/IMG_81.jpeg
+7/24/22,Goldhill Bistro,Chinese,$$,8,Casual,"Sesame Beef Tongue Salad, Minced Pork Rice",,photos/IMG_82.jpeg
+7/25/22,Goku Korean BBQ,Korean,$$,6,Casual,Various Korean BBQ,,photos/IMG_83.jpeg
+7/25/22,Crumbl ,American,$$,7,Dessert,"Gummy Shark Cookie, Sea Salt Toffee Cookie, Pineapple Upside Down Cookie",First time of many,photos/IMG_84.jpeg
+7/27/22,BJ's,American,$$,8,Casual,BBQ Chicken Pizza,,photos/IMG_85.jpeg
+7/29/22,Thai Grata,Thai,$$,9,Casual,"Green Curry, Pad See Ew",,photos/IMG_86.jpeg
+7/31/22,BE.STEAK.A,Italian,$$$,9,Buffet,Brunch Items,Expensive,photos/IMG_87.jpeg
+8/2/22,House of Pho,Vietnamese,$$,8,Casual,"Beef Pho, Pork Vermicelli",,photos/IMG_88.jpeg
+8/4/22,Santouka Ramen,Japanese,$,7,Fast Food,Miso Ramen,,photos/IMG_89.jpeg
+8/5/22,Sushi Masa,Japanese,$$,6,Casual,Chicken Terriyaki Bento,,photos/IMG_90.jpeg
+8/7/22,Orchard City Kitchen,American,$$,8,Brunch,"Loco Moco Tots, Eggs Benedict",,photos/IMG_91.jpeg
+8/7/22,Hui Lau Shan,Cantonese,$$,9,Dessert,Mango Shaved Icy with Sesame Balls,,photos/IMG_92.jpeg
+8/8/22,Sizzling Lunch,American,$$,8,Casual,Pepper Steak Rice,,photos/IMG_93.jpeg
+8/9/22,Tomi Sushi,Japanese,$$,9,Buffet,Various Sushi,,photos/IMG_94.jpeg
+8/14/22,Koi Palace,Cantonese,$$,9,Dim Sum,"BBQ Pork Bun, Har Gow",,photos/IMG_95.jpeg
+8/14/22,Boba Guys,American,$,7,Drink,Strawberry Jasmine Fresca,,photos/IMG_96.jpeg
+8/15/22,Gen Korean BBQ,Korean,$$,7,Casual,Various Korean BBQ,,photos/IMG_97.jpeg
+8/17/22,Cheesecake Factory,American,$$,8,Casual,Creamy Spicy Chipotle Pasta,,photos/IMG_98.jpeg
+8/20/22,Khanh's Restaurant,Vietnamese,$$,9,Casual,"Claypot Rice, Spring Rolls",,photos/IMG_99.jpeg
+8/21/22,Koi Palace,Cantonese,$$,7,Dim Sum,"XO Rice Rolls, Congee, Peking Duck",,
+9/4/22,Dan Izakaya,Japanese,$$,9,Casual,"Okonomiyaki, Beef Tongue, Clam Ramen",,photos/IMG_101.jpeg
+9/5/22,Teleferic Barcelona,Spanish,$$$,8,Tapas,"Calamari, Beef Empanadas, Grilled Squid, Dessert Platter",,photos/IMG_102.jpeg
+9/11/22,Somi Somi,Korean,$$,9,Dessert,Upside Down Ahboong (Oreo),,photos/IMG_103.jpeg
+9/16/22,Kura Sushi,Japanese,$$,9,Casual,Various Sushi,,photos/IMG_104.jpeg
+9/16/22,Somi Somi,Korean,$$,8,Dessert,Upside Down Ahboong (Chocolate),,photos/IMG_105.jpeg
+9/17/22,Special Noodle Soup,Chinese,$$,9,Casual,"Beef Laksa Noodle Soup, Fried Fish",,photos/IMG_106.jpeg
+9/18/22,BJ's,American,$,9,Happy Hour,"Queso Dip, Sliders, Avocado Egg Rolls, Potstickers",,photos/IMG_107.jpeg
+9/25/22,Scrambl'z,American,$$,6,Brunch,Chilaquiles ,,photos/IMG_108.jpeg
+10/9/22,Duan Chun Zhen,Chinese,$$,8,Casual,Sour and Spicy Dry Noodles,,photos/IMG_109.jpeg
+10/29/22,Sanraku,Japanese,$$,9,Casual,Dynamite Roll,,photos/IMG_110.jpeg
+10/30/22,Somi Somi,Korean,$$,9,Dessert,Upside Down Ahboong (Matcha),,photos/IMG_111.jpeg
+11/11/22,Pineapple Thai,Thai,$$,8,Casual,Pad Thai,,photos/IMG_112.jpeg
+11/12/22,Momosan,Japanese,$$$,9,Fine Dining,"Dynamite Shrimp, Duck Ramen",,photos/IMG_113.jpeg
+11/20/22,iChina,Cantonese,$$$,5,Dim Sum,Contemporary Dim Sum,Expensive for mediocre food,photos/IMG_114.jpeg
+11/25/22,Madras Café,Indian,$$,8,Casual,Masala Dosa,Needs sauce,photos/IMG_115.jpeg
+12/3/22,Cheesecake Factory,American,$$,7,Happy Hour,"Egg Roll Sampler, Dynamite Shrimp",,photos/IMG_116.jpeg
+12/18/22,Dan Izakaya,Japanese,$$,9,Casual,"Yaki Onirigi, Wagyu Don",,photos/IMG_117.jpeg
+12/23/22,Koi Palace Contempo,Cantonese,$$$,6,Dim Sum,Peking Duck,Skip this,photos/IMG_118.jpeg
+12/24/22,Koi Palace,Cantonese,$$,8,Casual,"Hainan Chicken Rice, Baked Pork Chop Rice",OG is better,photos/IMG_119.jpeg
+12/26/22,Discovery Fusion BBQ,Chinese,$$,8,Casual,Various Skewers,,
+12/28/22,Sanraku,Japanese,$$,9,Casual,Sesame Chicken Bento,,photos/IMG_121.jpeg
+12/29/22,Kahoo Ramen,Japanese,$$,10,Casual,"Spicy Miso Ramen, Chicken Karaage",,photos/IMG_122.jpeg
+12/31/22,Leftbank Steakhouse,French,$$$,7,Fine Dining,"Taro Ravioli, Braised Beef Ragu, Scallops",NYE,photos/IMG_123.jpeg
+1/1/23,Cheesecake Factory,American,$$,8,Casual,Creamy Spicy Chipotle Pasta,,photos/IMG_124.jpeg
+1/2/23,Tomi Sushi,Chinese,$$,9,Buffet,Various Sushi,17th birthday,photos/IMG_125.jpeg
+1/8/23,Shabuya,Chinese,$$,7,Hotpot,Miso Soup Base,,photos/IMG_126.jpeg
+1/8/23,Umai Hot Dogs,American,$,4,Fast Food,Tokyo Signature,This dog doing too much,photos/IMG_127.jpeg
+1/12/23,Sizzling Lunch,American,$$,7,Casual,Pepper Steak Rice,,photos/IMG_128.jpeg
+1/16/23,Hironori Ramen,Japanese,$$,8,Casual,"Tonkotsu Ramen, Chashu Rice",Creamy broth,photos/IMG_129.jpeg
+1/21/23,Sul & Beans,Korean,$$,9,Dessert,Oreo Bingsu,,photos/IMG_130.jpeg
+1/29/23,Rentei,Japanese,$$$,9,Fine Dining,Expensive Sushi,,photos/IMG_131.jpeg
+2/5/23,Din Tai Fung,Taiwanese,$$,10,Casual,"Sesame Noodles, Wonton Soup, Xiao Long Bao",,photos/IMG_132.jpeg
+2/19/23,Mistura,Peruvian,$$$,7,Fine Dining,"Sushi, Empanadas, Lomo Saltado",Sick in SLO,photos/IMG_133.jpeg
+3/11/23,Popeyes,American,$,7,Fast Food,"Chicken Sandwich, Coleslaw",,photos/IMG_134.jpeg
+3/11/23,Coldstone,American,$,6,Dessert,Oreo Ice Cream,3 people 1 cup,photos/IMG_135.jpeg
+3/12/23,Tian Fu Xiang Hotpot,Chinese,$$,8,Hotpot,"Spicy Soup, Fried Pork",,photos/IMG_136.jpeg
+3/19/23,Terra,Italian,$$$,5,Fine Dining,"Tagliatelle, Ravioli, Burrata Toast",Overrated,photos/IMG_137.jpeg
+3/26/23,Andale,Mexican,$$,7,Fast Food,Carnitas Burrito,,photos/IMG_138.jpeg
+3/26/23,Morton's Steakhouse,American,$$$,8,Fine Dining,"Lobster, Mashed Potatoes, Tomahawk Steak, Butter Cake",,photos/IMG_139.jpeg
+4/10/23,Superdish,Chinese,$$,7,Casual,Kung Pao Shrimp,,photos/IMG_140.jpeg
+4/11/23,Gen Korean BBQ,Korean,$$,8,Casual,Various Korean BBQ,,photos/IMG_141.jpeg
+4/15/23,The Spinnaker,American,$$,9,Brunch,Shrimp Club Sandwich,Sausalito,photos/IMG_142.jpeg
+4/15/23,Lappert's Ice Cream,American,$$,10,Dessert,"Coffee Gelato, Mango Sorbet",,photos/IMG_143.jpeg
+4/16/23,Marufuku Ramen,Japanese,$$,7,Casual,"Pork Bao, Spicy Tantan Ramen",,photos/IMG_144.jpeg
+5/17/23,Koi Palace,Cantonese,$$$,8,Fine Dining,"Whole Lobster, Various Dishes",Dad's birthday,
+5/20/23,Gochi ,Japanese,$$,8,Casual,"Chashu Rice, Soba, Fusion Pizza",Interesting dishes,photos/IMG_146.jpeg
+5/20/23,Cheesecake Factory,American,$$,6,Casual,"Evelyn's Favorite Pasta, Lettuce Wrap Tacos",,
+5/27/23,The Conservatory,American,$$$,7,Brunch,Various Brunch Items,Ocean view,photos/IMG_148.jpeg
+5/27/23,Special Noodle Soup,Chinese,$$,8,Casual,Hainan Chicken Rice,,photos/IMG_149.jpeg
+5/28/23,Oren's Hummus,Mediterranean,$$,9,Casual,Pita Falafel,Stats project,
+5/28/23,Avachi Biryani House,Indian,$$,10,Casual,Masala Dosa,,photos/IMG_151.jpeg
+6/3/23,Din Tai Fung,Taiwanese,$$,9,Casual,Xiao Long Bao,,photos/IMG_152.jpeg
+6/3/23,Potato Corner,Filipino,$,6,Fast Food,BBQ Fries,Too greasy,photos/IMG_153.jpeg
+6/3/23,Hironori Ramen,Japanese,$$,8,Casual,Salmon Poke Bowl,,photos/IMG_154.jpeg
+6/7/23,The American Italian Deli,American,$,9,Fast Food,The Godfather,,photos/IMG_155.jpeg
+6/9/23,Kura Sushi,Japanese,$$,9,Casual,Various Sushi,,photos/IMG_156.jpeg
+6/10/23,Koi Palace Contempo,Cantonese,$$$,7,Dim Sum,Peking Duck,,photos/IMG_157.jpeg
+6/10/23,Sul & Beans,Korean,$$,9,Dessert,Mango Bingsu,,photos/IMG_158.jpeg
+6/11/23,AnQi,Vietnamese,$$,7,Happy Hour,"Salt and Pepper Wings, Garlic Noodles",In Bloomingdales,photos/IMG_159.jpeg
+6/15/23,BJ's,American,$$,8,Casual,BBQ Chicken Pizza,,photos/IMG_160.jpeg
+6/16/23,Thai Grata,Thai,$$,9,Casual,Green Curry with Shrimp,,photos/IMG_161.jpeg
+6/17/23,QQ Noodle,Chinese,$$,8,Casual,Sweet and Sour Pork Noodle Soup,,photos/IMG_162.jpeg
+6/18/23,Hironori Ramen,Japanese,$$,6,Casual,Shoyu Ramen,,photos/IMG_163.jpeg
+6/20/23,Cheesecake Factory,American,$$,7,Casual,Creamy Spicy Chipotle Pasta,,photos/IMG_164.jpeg
+6/22/23,Seapot,Chinese,$$,8,Hotpot,Various Hot Pot,,photos/IMG_165.jpeg
+6/24/23,La Pizza & La Pasta,Italian,$$$,8,Fine Dining,"Foccacia, Margherita Pizza, Penne Pasta",,photos/IMG_166.jpeg
+6/29/23,Popeyes,American,$,7,Fast Food,"Chicken Sandwich, Coleslaw, Mango Lemonade",,photos/IMG_167.jpeg
+7/2/23,Dan Izakaya,Japanese,$$,9,Casual,"Yaki Onirigi, Wagyu Don",,photos/IMG_168.jpeg
+7/3/23,Popeyes,American,$,5,Fast Food,Fried Chicken,,photos/IMG_169.jpeg
+7/4/23,Sul & Beans,Korean,$$,8,Dessert,Strawberry Bingsu,,photos/IMG_170.jpeg
+7/6/23,Seapot,Chinese,$$,7,Hotpot,Various Hot Pot,,photos/IMG_171.jpeg
+7/11/23,Sanraku,Japanese,$$,9,Casual,Eskimo Roll,,photos/IMG_172.jpeg
+7/13/23,Kahoo Ramen,Japanese,$$,9,Casual,"Spicy Miso Ramen, Takoyaki",,photos/IMG_173.jpeg
+7/13/23,Teaspoon,Taiwanese,$,10,Drink,Strawberry Colada,,photos/IMG_174.jpeg
+7/16/23,Slater's 50/50,American,$$,6,Casual,"BBQ Bacon Burger, Flatbreaad, Sweet Potato Fries",,photos/IMG_175.jpeg
+7/17/23,House of Pho,Vietnamese,$,8,Casual,Shaken Beef with Tomato Rice,,photos/IMG_176.jpeg
+7/17/23,Feng Cha,Taiwanese,$$,9,Drink,Mango Pomelo Sago,,photos/IMG_177.jpeg
+7/18/23,Kura Sushi,Japanese,$$,8,Casual,Various Sushi,,photos/IMG_178.jpeg
+7/21/23,Slater's 50/50,American,$$,6,Happy Hour,"Sliders, BBQ Pork Nachos",,photos/IMG_179.jpeg
+7/22/23,Koi Palace Contempo,Cantonese,$$$,8,Fine Dining,Peking Duck,,photos/IMG_180.jpeg
+7/22/23,Sul & Beans,Korean,$$,9,Dessert,Mango Bingsu,,photos/IMG_181.jpeg
+7/23/23,Home Eat,Chinese,$$,9,Casual,"Boba Milk Tea, Orange Chicken",,photos/IMG_182.jpeg
+7/27/23,Lazy Dog,American,$$,8,Casual,Fish and Chips,,photos/IMG_183.jpeg
+7/27/23,Willow Street Pizza,Italian,$$,9,Casual,Various Pizza,,
+8/3/23,Guy's Burgers,American,$,9,Fast Food,Smashburger,Carnival cruise,photos/IMG_185.jpeg
+8/4/23,Guy's Burgers,American,$,8,Fast Food,Chili Fries,,photos/IMG_186.jpeg
+8/20/23,Special Noodle Soup,Chinese,$$,9,Casual,Hainan Chicken Rice,,photos/IMG_187.jpeg
+9/1/23,Haidilao,Chinese,$$,9,Hotpot,Various Hot Pot,,photos/IMG_188.jpeg
+9/2/23,Sanraku,Japanese,$$,7,Casual,Soba,,photos/IMG_189.jpeg
+9/3/23,Ideal Bar & Grill,American,$$,8,Casual,Fish Tacos,Santa Cruz,photos/IMG_190.jpeg
+9/9/23,Slater's 50/50,American,$$,7,Casual,"Brunch Burger, Onion Rings",,photos/IMG_191.jpeg
+9/17/23,Baekjeong Korean BBQ,Korean,$$$,9,Fine Dining,Various Korean BBQ,,photos/IMG_192.jpeg
+9/24/23,Sweet Maple,Korean,$$,9,Brunch,"Chicken and Waffles, Blackstone Benedict, Blueberry Mochi Waffle",LOL,photos/IMG_193.jpeg
+9/30/23,Kong Tofu and BBQ,Korean,$$,7,Casual,"Cold Noodles, Bulgogi",,photos/IMG_194.jpeg
+10/1/23,Special Noodle Soup,Chinese,$$,7,Casual,"Hainan Chicken, Chicken Noodle Soup",,photos/IMG_195.jpeg
+10/6/23,Lazy Dog,American,$$,8,Casual,Japanese Katsu Sandwich,,photos/IMG_196.jpeg
+10/8/23,Marugame Udon,Japanese,$$,9,Fast Food,Beef Nikutama Udon,,photos/IMG_197.jpeg
+10/27/23,Lazy Dog,American,$$,9,Happy Hour,"Calamari, Hush Puppies, Hummus Dip, Buffalo Wings",,photos/IMG_198.jpeg
+10/28/23,10 Butchers Korean BBQ,Korean,$$$,10,Fine Dining,Various Korean BBQ,,photos/IMG_199.jpeg
+11/4/23,Hinodeya Ramen,Japanese,$$,5,Casual,Miso Ramen,,photos/IMG_200.jpeg
+11/18/23,Sanraku,Japanese,$$,8,Casual,Soba,,
+11/25/23,Sul & Beans,Korean,$$,9,Dessert,Chocolate Bingsu,,photos/IMG_202.jpeg
+11/26/23,Sweet Maple,Korean,$$,9,Brunch,"Chicken and Waffles, Breakfast Tacos",,photos/IMG_203.jpeg
+11/30/23,Haidilao,Chinese,$$,9,Casual,Various Hot Pot,,
+12/17/23,Wei's Fish,Chinese,$$,5,Casual,Lemon Fish Stew,,photos/IMG_205.jpeg
+12/22/23,Kahoo Ramen,Japanese,$$,9,Casual,Spicy Miso Ramen,,photos/IMG_206.jpeg
+12/24/23,Sushi Maru,Japanese,$$,9,Casual,"Lobster Roll, Lion King Roll",,photos/IMG_207.jpeg
+12/28/23,Kura Sushi,Japanese,$$,7,Casual,Various Sushi,,photos/IMG_208.jpeg
+12/31/23,Dan Izakaya,Japanese,$$,9,Casual,"Yaki Onirigi, Wagyu Don, Agedashi Tofu",,photos/IMG_209.jpeg
+1/2/24,Tomi Sushi,Japanese,$$,8,Buffet,Various Sushi,,photos/IMG_210.jpeg
+1/5/24,Sanraku,Japanese,$$,8,Casual,Tonkatsu Bento,,photos/IMG_211.jpeg
+1/20/24,Marugame Udon,Japanese,$$,9,Fast Food,Curry Nikutama Udon,,
+2/23/24,Haidilao,Chinese,$$,9,Hotpot,Various Hot Pot,,photos/IMG_213.jpeg
+2/26/24,Posh Bagel,American,$,8,Breakfast,"Chipotle Chicken Bagel, Cold Brew",,
+3/5/24,Haidilao,Chinese,$$,9,Hotpot,Various Hot Pot,,
+3/8/24,House of Pho,Vietnamese,$$,7,Casual,Beef Pho,Post rejection,
+3/8/24,Subway,American,$,8,Dessert,Footlong Cookie,,photos/IMG_217.jpeg
+3/9/24,Fashion Wok,Taiwanese,$$,7,Casual,Korean Army Stew Hotpot,Similar to Home Eat,photos/IMG_218.jpeg
+3/17/24,Breaking Dawn,American,$$,8,Brunch,"Pho Poutine, Crab Benedict, Resting Brunch Face",Unique dishes,photos/IMG_219.jpeg
+3/27/24,10 Butchers Korean BBQ,Korean,$$$,9,Fine Dining,Various Korean BBQ,,photos/IMG_220.jpeg
+3/29/24,Dough Zone,Taiwanese,$$,7,Casual,"Xiao Long Bao, Sesame Noodles",,
+4/1/24,BJ's,American,$$,8,Dessert,Pizookie,,photos/IMG_222.jpeg
+4/9/24,Haidilao,Chinese,$$,9,Hotpot,Various Hot Pot,,photos/IMG_223.jpeg
+4/11/24,Madras Café,Indian,$$,7,Casual,Masala Dosa,,photos/IMG_224.jpeg
+4/14/24,Okayama Sushi,Japanese,$$,8,Casual,Tonkatsu Bento,,photos/IMG_225.jpeg
+4/14/24,Pau Hana Shaved Ice,Hawaiian,$,9,Dessert,Guava and Lychee Shaved Ice,,photos/IMG_226.jpeg
+4/26/24,Local Kitchens,American,$$,8,Fast Food,"Chicken Sandwich, Garlic Fries",,photos/IMG_227.jpeg
+5/5/24,Santouka Ramen,Japanese,$$,7,Fast Food,Spicy Miso Ramen,,photos/IMG_228.jpeg
+5/12/24,Sweet Maple,Korean,$$,9,Brunch,"Chicken and Waffles, Blackstone Benedict",,photos/IMG_229.jpeg
+5/18/24,Grand Dynasty,Cantonese,$$$,8,Casual,"Peking Duck, Hainan Chicken, Honey Walnut Shrimp",,photos/IMG_230.jpeg
+5/24/24,Gen Korean BBQ,Korean,$$,9,Casual,Various Korean BBQ,,
+5/26/24,Bit O' Denmark,Danish,$$,7,Casual,"Pork Schnitzel, Veal",Solvang,photos/IMG_232.jpeg
+5/26/24,Lao Wang,Chinese,$$,9,Fast Food,DIY Noodle Soup,UCSB,photos/IMG_233.jpeg
+5/27/24,Portola Dining Commons,American,$,8,Dining Hall,"Beef Tostada, German Chocolate Cake",,photos/IMG_234.jpeg
+6/10/24,Ramen Nagi,Japanese,$$,6,Casual,Red King,Overrated,photos/IMG_235.jpeg
+6/13/24,Dish n' Dash,Mediterranean,$$,9,Casual,"Beef Shawarma Plate, Falafel",,photos/IMG_236.jpeg
+6/15/24,Kahoo Ramen,Japanese,$$,9,Casual,Black Garlic Miso Ramen,,photos/IMG_237.jpeg
+6/20/24,Jojo's Hot Chicken,American,$$,9,Food Truck,Hot Tender Combo,,
+7/4/24,Five Guys,American,$$,8,Fast Food,"Little Cheeseburger, Cajun Fries",Manifest a 2,photos/IMG_239.jpeg
+7/17/24,Din Tai Fung,Taiwanese,$$$,9,Casual,"Vegan Dumplings, Porkchop Fried Rice, Xiao Long Bao",,
+7/29/24,Japanese Convenience Store,Japanese,$,10,Fast Food,"Pork Katsu Sandwich, Milkis",Welcome to Japan,photos/IMG_241.jpeg
+7/29/24,Tenkaippin,Japanese,$,10,Casual,Tonkotsu Ramen,,photos/IMG_242.jpeg
+7/30/24,Onyado Nono Sendai,Japanese,$,10,Buffet,Various Japanese Dishes,,photos/IMG_243.jpeg
+7/30/24,Sushi Kou Branch,Japanese,$$,7,Casual,Uni Don,New tastes,photos/IMG_244.jpeg
+7/30/24,Gogo Curry,Japanese,$,8,Fast Food,"Beef Curry, Peach Milkshake",,photos/IMG_245.jpeg
+8/1/24,Uobei Sushi,Japanese,$$,9,Casual,Various Sushi,,photos/IMG_246.jpeg
+8/2/24,Snoopy Café,Japanese,$$,6,Brunch,"Snoopy Pancake, Charlie Brown Float",For my soul,photos/IMG_247.jpeg
+8/3/24,Hooters,Japanese,$$,8,Casual,Buffalo Wings,,
+8/3/24,Tokyo Tower,Japanese,$,9,Fast Food,Takoyaki,,photos/IMG_249.jpeg
+8/4/24,Mister Donut,Japanese,$,10,Breakfast,Various Pastries,,photos/IMG_250.jpeg
+8/5/24,Toraji,Japanese,$$$,10,Fine Dining,Various Japanese BBQ,,photos/IMG_251.jpeg
+8/14/24,Jojo's Hot Chicken,American,$$,8,Food Truck,Mild Tender Combo,,
+8/17/24,Kahoo Ramen,Japanese,$$,9,Casual,Spicy Black Garlic Miso Ramen,,photos/IMG_253.jpeg
+8/19/24,Gen Korean BBQ,Korean,$$,7,Casual,Various Korean BBQ,,photos/IMG_254.jpeg
+8/26/24,In & Out,American,$,6,Fast Food,Tomato Wrapped Burger,Too soggy,photos/IMG_255.jpeg
+8/31/24,Humuhumunukunukuapua'a,Hawaiian,$$$,8,Fine Dining,"Tuna Carpaccio, Miso Sea Bass",,photos/IMG_256.jpeg
+9/1/24,Island Vintage Shaved Ice,Hawaiian,$$,9,Dessert,Strawberry and Passionfruit Shaved Ice,,photos/IMG_257.jpeg
+9/1/24,Monkey Pod,American,$$,8,Happy Hour,"Taro Ravioli, Kalua Pork and Pineapple Pizza",,photos/IMG_258.jpeg
+9/2/24,Lappert's Hawaii,American,$,9,Dessert,Coffee Ice Cream,,photos/IMG_259.jpeg
+9/3/24,Haidilao,Chinese,$$,9,Happy Hour,Various Hot Pot,,
+9/7/24,Wingstop,American,$$,7,Fast Food,Various Wings,Waited 40 minutes,photos/IMG_261.jpeg
+9/8/24,Ping's Bistro,Chinese,$$,9,Casual,Mint Beef Rolls,,photos/IMG_262.jpeg
+9/14/24,Crumbl ,American,$,9,Dessert,Biscoff Tres Leches Cake,,photos/IMG_263.jpeg
+9/20/24,Crumbl ,American,$,8,Dessert,Minis,,photos/IMG_264.jpeg
+9/21/24,Moby Dick,American,$$,9,Casual,"Oysters, Fish and Chips",Move in,photos/IMG_265.jpeg
+9/23/24,Blenders,American,$,10,Drink,Pina Colada,,photos/IMG_266.jpeg
+9/26/24,Crumbl ,American,$,7,Dessert,Oreo Birthday Cake Cookie,,photos/IMG_267.jpeg
+9/27/24,Lao Wang,Chinese,$,8,Fast Food,Pork Bao Buns,,photos/IMG_268.jpeg
+9/30/24,Lao Wang,Chinese,$,9,Fast Food,DIY Noodle Soup,,photos/IMG_269.jpeg
+10/5/24,Su's Bowl,Chinese,$$,8,Casual,"Beef Noodle Soup, Peach Milk Tea",,photos/IMG_270.jpeg
+10/6/24,Raising Canes,American,$$,3,Fast Food,Tender Combo,Very cold,photos/IMG_271.jpeg
+10/11/24,Nikka Ramen,Japanese,$$,9,Casual,"Spicy Tonkotsu Ramen, Shrimp Bao",,photos/IMG_272.jpeg
+10/18/24,Chick Fil A,American,$,8,Fast Food,Spicy Chicken Deluxe,,photos/IMG_273.jpeg
+10/19/24,Blenders,American,$,9,Drink,Strawberry Colada,,photos/IMG_274.jpeg
+10/19/24,Sizzling Lunch,American,$$,8,Casual,"Takoyaki, Cheese Fries, Pepper Steak Udon",,photos/IMG_275.jpeg
+10/25/24,Chick Next Door,American,$$,9,Food Truck,Loaded Chicken Fries,,photos/IMG_276.jpeg
+10/26/24,Cha For Tea,Taiwanese,$,10,Drink,Mango Milk Tea,Hidden gem,photos/IMG_277.jpeg
+11/2/24,Crumbl ,American,$$,7,Dessert,Halloween Cookies,,photos/IMG_278.jpeg
+11/3/24,Saigon Noodle House,Vietnamese,$$,8,Casual,Pho,,photos/IMG_279.jpeg
+11/9/24,Wingstop,American,$$,8,Fast Food,"Buffalo Tenders, Mango Habanero Sandwich",,photos/IMG_280.jpeg
+11/9/24,Starbucks,American,$,5,Drink,Cran-merry Orange Refresher,Too overpowering,photos/IMG_281.jpeg
+11/10/24,Su's Bowl,Chinese,$$,8,Casual,"Chinese Burger, Oil Spill Noodles",,photos/IMG_282.jpeg
+11/15/24,Asia 101,Taiwanese,$,9,Drink,Passionfruit Tea,,photos/IMG_283.jpeg
+11/15/24,Domino's,American,$,6,Fast Food,Meat Lovers Pizza,Post soccer game,photos/IMG_284.jpeg
+11/22/24,Uniboil,Chinese,$$,8,Hotpot,Spicy Hot Pot,,photos/IMG_285.jpeg
+11/27/24,Haidilao,Chinese,$$,9,Casual,Various Hot Pot,Back home,photos/IMG_286.jpeg
+11/28/24,Black Angus,American,$$,8,Casual,"Prime Rib, Turkey",,photos/IMG_287.jpeg
+11/29/24,Tofu Plus,Korean,$$,8,Casual,"Bimbimbap, Pork Belly Lettuce Wraps",,photos/IMG_288.jpeg
+12/1/24,Hana Kitchen,American,$,9,Fast Food,Terriyaki Chicken Bowl,,photos/IMG_289.jpeg
+12/10/24,Su's Bowl,Chinese,$,9,Fast Food,"Popcorn Chicken Bao, Pork Belly Bowl",,photos/IMG_290.jpeg
+12/11/24,Hironori Ramen,Japanese,$$,9,Casual,Tonkotsu Ramen,,photos/IMG_291.jpeg
+12/12/14,Crumbl ,American,$,8,Dessert,Minis,,photos/IMG_292.jpeg
+12/17/24,Five Guys,American,$$,8,Fast Food,"Little Cheeseburger, Cajun Fries",,
+12/21/24,Sushi Maru,Japanese,$$,9,Casual,Salmon Bento,,
+12/22/24,R.H Rooftop,American,$$$,9,Brunch,"Lobster Roll, Italian Benedict",,photos/IMG_295.jpeg
+12/25/24,Santouka Ramen,Japanese,$,9,Fast Food,Spicy Miso Ramen,,photos/IMG_296.jpeg
+12/26/24,Uji Matcha,Japanese,$$,6,Drink,Matcha Latte,SF,photos/IMG_297.jpeg
+12/26/24,Zhen Restaurant,Chinese,$$,8,Casual,"Roasted Duck, Honey Walnut Shrimp",,photos/IMG_298.jpeg
+12/28/24,7 Leaves Café,Vietnamese,$,7,Drink,Green Milk Tea,,photos/IMG_299.jpeg
+12/28/24,Pho Ha Noi,Vietnamese,$$,10,Casual,"Pork Vermicelli, Grilled Pork Chop, Beef Pho",,photos/IMG_300.jpeg
+12/29/24,Newport Restaurant,Cantonese,$$,9,Dim Sum,Various Dim Sum,,photos/IMG_301.jpeg
+12/30/24,Hey Tea,Taiwanese,$$,9,Drink,Grape Slushy,,photos/IMG_302.jpeg
+12/31/24,Yard House,American,$$,9,Happy Hour,"Sliders, Margherita Pizza, Poke Nachos, Cheese Curds",,photos/IMG_303.jpeg
+1/1/25,Angry Chickz,American,$$,8,Fast Food,Mac n Cheese Chicken Bowl,,photos/IMG_304.jpeg
+1/2/25,Dan Izakaya,Japanese,$$,10,Casual,"Agedashi Tofu, Okonomiyaki, Wagyu Don, Clam Ramen",,photos/IMG_305.jpeg
+1/2/25,Crumbl ,American,$$,10,Dessert,Confetti Cake,,photos/IMG_306.jpeg
+1/4/25,Pho Ha Noi,Vietnamese,$$,7,Casual,Bun Bo Hue,,photos/IMG_307.jpeg
+1/5/25,Chili's,Tex-Mex,$,8,Casual,Old Timer Burger,,photos/IMG_308.jpeg
+1/10/25,Naan Stop,Indian,$,7,Fast Food,Chicken Tikka Masala,,
+1/12/25,Bruxie,American,$$,8,Brunch,"Hot Honey Chicken and Waffle Taco, Waffle Fries",,photos/IMG_310.jpeg
+1/18/25,Haidilao,Chinese,$$,9,Casual,Various Hot Pot,,photos/IMG_311.jpeg
+1/18/25,Tong Sui,Taiwanese,$$,7,Drink,Mango Matcha Latte,,photos/IMG_312.jpeg
+1/30/25,Crumbl ,American,$,8,Dessert,Oreo Cake,,photos/IMG_313.jpeg
+1/31/25,Uniboil,Chinese,$$,9,Hotpot,Spicy Hot Pot,,photos/IMG_314.jpeg
+2/5/25,Wingstop,American,$$,7,Fast Food,Korean BBQ Chicken Sandwich,,photos/IMG_315.jpeg
+2/16/25,Haidilao,Chinese,$$,8,Hotpot,Various Hot Pot,,photos/IMG_316.jpeg
+2/24/25,Los Agaves,Mexican,$$,9,Casual,Loaded Shrimp Mango Burrito,,photos/IMG_317.jpeg
+3/8/35,Wingstop,American,$,8,Fast Food,Hot Honey Tenders,,photos/IMG_318.jpeg
+3/19/25,Wingstop,American,$,8,Fast Food,"Korean BBQ Tenders, Garlic Parmesan Tenders, Fries",,photos/IMG_319.jpeg
+3/20/25,Lazy Dog,American,$$,6,Casual,Chicken and Waffle Salad,Interesting,photos/IMG_320.jpeg
+3/20/25,Crumbl ,American,$$,8,Dessert,Cookies,6 for 4,photos/IMG_321.jpeg
+3/21/25,The Kebab Shop,Mediterranean,$$,9,Fast Food,San Diego Wrap,Massive,photos/IMG_322.jpeg
+3/22/25,Banana Leaf,Thai,$$,9,Casual,"Pineapple Fried Rice, Laksa Noodle Soup, Pad See Ew",,photos/IMG_323.jpeg
+3/23/25,Bloom,American,$$,9,Brunch,"Croissant French Toast, Chicken and Waffles, Crab Benedict",,photos/IMG_324.jpeg
+3/23/25,Koi Palace,Cantonese,$$$,9,Casual,"Pork Chop Fried Rice, Roasted Duck, Lobster Noodles",,photos/IMG_325.jpeg
+3/25/25,Paris Baguette,Korean,$,10,Breakfast,Ham and Swiss Croissant,,photos/IMG_326.jpeg
+3/27/25,Happy Lamb Hot Pot,Taiwanese,$$,8,Hotpot,Various Hot Pot,,photos/IMG_327.jpeg
+3/27/25,10 Butchers Korean BBQ,Korean,$$$,9,Fine Dining,Various Korean BBQ,,photos/IMG_328.jpeg
+3/29/25,Orenchi Ramen,Japanese,$$,9,Fast Food,Tonkotsu Ramen,Inside State Street Market,photos/IMG_329.jpeg
+3/29/25,Miko's Calitalia,Italian,$$,9,Fast Food,Hot Honey Pepperoni Pizza,Inside State Street Market,photos/IMG_330.jpeg
+4/4/25,Super Cucas,Mexican,$$,8,Fast Food,Carne Asada Tacos,,photos/IMG_331.jpeg
+4/8/25,Maria's Tacos,Mexican,$,9,Fast Food,Al Pastor Tacos,Taco Tuesday,photos/IMG_332.jpeg
+4/18/25,Chick Fil A,American,$,8,Fast Food,Spicy Chicken Deluxe,,photos/IMG_333.jpeg
+4/19/25,Wingstop,American,$$,7,Fast Food,Hot Honey Tenders,,photos/IMG_334.jpeg
+5/2/25,Kaiju Ramen,Japanese,$$,8,Casual,Spicy Tonkotsu Ramen,,photos/IMG_335.jpeg
+5/9/25,Raising Canes,American,$$,9,Fast Food,Caniac Box,,photos/IMG_336.jpeg
+5/10/25,Made Café,American,$,9,Drink,Cinnamon Matcha Latte,,photos/IMG_337.jpeg
+5/10/25,The Alley,Taiwanese,$,4,Drink,Green Tea With Salted Foam,So mid,photos/IMG_338.jpeg
+5/16/25,Wendy's,American,$,7,Fast Food,"Cajun Chicken Sandwich, Oreo Frosty",,
+5/17/25,Hochaya,Taiwanese,$,8,Drink,Matcha Latte,,
+5/23/25,Boba Guys,American,$,7,Drink,Mango Matcha Latte,,photos/IMG_341.jpeg
+5/23/25,Mumu Hotpot,Taiwanese,$$,10,Hotpot,Various Hot Pot,,photos/IMG_342.jpeg
+5/24/25,Pho Ha Noi,Vietnamese,$$,9,Casual,"Pork Vermicelli, Grilled Pork Chop, Beef Pho",,photos/IMG_343.jpeg
+5/25/25,Ping's Bistro,Chinese,$$,8,Casual,"Spicy Noodle, Braised Beef Shank Rice",,photos/IMG_344.jpeg
+5/30/25,Takashi Ramen,Japanese,$,7,Fast Food,Tonkotsu Ramen,Only $10,photos/IMG_345.jpeg
+6/18/25,House of Pho,Vietnamese,$$,8,Casual,Pork Vermicelli,,
+6/19/25,Kumako Ramen Den,Japanese,$$,5,Casual,Hiyashi Chuka,No AC,photos/IMG_347.jpeg
+6/20/25,Sanraku,Japanese,$$,8,Casual,Soba,,photos/IMG_348.jpeg
+6/22/25,Tsujita Artisan Noodle,Japanese,$$,10,Casual,Spicy Pork Tsukemen,,photos/IMG_349.jpeg
+6/22/25,Matcha Ren,Japanese,$,9,Drink,Banana Pudding Matcha Latte,Inside Mitsuwa,photos/IMG_350.jpeg
+6/27/25,Ippudo Ramen,Japanese,$$,9,Casual,Dragon Tantan,,photos/IMG_351.jpeg
+6/27/25,Meet Fresh,Taiwanese,$$,8,Dessert,Brown Sugar Boba Shaved Ice,,photos/IMG_352.jpeg
+6/29/25,Hajime Ramen,Japanese,$$,8,Casual,Spicy Tonkotsu Ramen,,photos/IMG_353.jpeg
+6/29/25,Marugame Udon,Japanese,$$,9,Fast Food,Tartar Chicken Udon,,photos/IMG_354.jpeg
+6/29/25,Somi Somi,Korean,$$,9,Dessert,Upside Down Ahboong (Matcha),,photos/IMG_355.jpeg
+7/2/25,Crumbl ,American,$,7,Dessert,Moonbeam Ice Cream Cookie,,photos/IMG_356.jpeg
+7/5/25,Wynn Buffet,American,$$$,9,Buffet,"Crab, Steak, Sides, Desserts",,photos/IMG_357.jpeg
+7/5/25,Happy Lemon,Taiwanese,$,9,Drink,Honey Lemon Black Tea,,
+7/5/25,Gordon Ramsay's Pub and Grill,British,$$$,6,Fine Dining,"Beef Wellington, Sticky Toffee Pudding",Only for the novelty,photos/IMG_359.jpeg
+7/6/25,Buddy V's Ristorante,Italian,$$,10,Buffet,"Shrimp, Pasta, Pizza, Prosciutto Grilled Cheese",Hidden gem,photos/IMG_360.jpeg
+7/13/25,Izumi Matcha,Japanese,$$,10,Drink,Matcha Crème Brulee Tornado,Could almost be a dessert,photos/IMG_361.jpeg
+7/17/25,Xian Steam Pot and Grill,Chinese,$$,4,Casual,Various Japanese BBQ,Bad quality meat,photos/IMG_362.jpeg
+7/19/25,BJ's,American,$$,8,Casual,"Shrimp Tacos, Mega Pizookie",,photos/IMG_363.jpeg
+7/20/25,Nice 2 Meet U,Chinese,$$,7,Casual,Various Skewers,Sides are better,photos/IMG_364.jpeg
+7/24/25,Sweet Pea's,American,$$,7,Brunch,Benedict Crepe,,photos/IMG_365.jpeg
+7/26/25,Raising Canes,American,$$,8,Fast Food,Box Combo,,photos/IMG_366.jpeg
+7/26/25,Aroma Tea,Vietnamese,$$,6,Drink,Mango Sticky Rice Matcha,Not worth the hype,photos/IMG_367.jpeg
+7/28/25,Pho Hoa,Vietnamese,$$,8,Casual,Bahn Mi Dip,Interesting concept,photos/IMG_368.jpeg
+8/1/25,D.H Noodle and Grill,Chinese,$$,8,Casual,Dan Dan Noodles,,photos/IMG_369.jpeg
+8/2/25,Cere Tea,Vietnamese,$,9,Drink,Mango Matcha Einspanner,Mango chunks,photos/IMG_370.jpeg
+8/2/25,Santouka Ramen,Japanese,$$,7,Fast Food,Spicy Miso Ramen,,photos/IMG_371.jpeg
+8/3/25,The Table,American,$$,8,Brunch,"Smoked Salmon Benedict, Crab Avocado Toast",,photos/IMG_372.jpeg

@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Dine with Ding — Modern Search</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Choices.js for modern dropdowns -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+
+  <!-- PapaParse to load CSV -->
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+  <style>
+    body {
+      font-family: "Inter", system-ui, -apple-system, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fafafa;
+      color: #333;
+    }
+
+    header {
+      background: #111;
+      color: white;
+      padding: 22px 28px;
+      font-size: 1.6rem;
+      font-weight: 600;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 20px auto;
+      display: flex;
+      gap: 26px;
+    }
+
+    .sidebar {
+      width: 300px;
+      background: white;
+      border-radius: 16px;
+      padding: 20px;
+      box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+      height: fit-content;
+    }
+
+    .sidebar h2 {
+      margin-top: 0;
+      font-size: 1.2rem;
+      margin-bottom: 14px;
+    }
+
+    label {
+      font-size: 0.9rem;
+      margin-top: 12px;
+      display: block;
+      margin-bottom: 6px;
+      font-weight: 600;
+    }
+
+    .results {
+      flex: 1;
+    }
+
+    .result-card {
+      display: flex;
+      background: white;
+      padding: 16px;
+      margin-bottom: 16px;
+      border-radius: 14px;
+      box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
+      gap: 16px;
+      align-items: flex-start;
+    }
+
+    .result-card img {
+      width: 220px;
+      height: 160px;
+      object-fit: cover;
+      border-radius: 10px;
+      background: #eee;
+    }
+
+    h3 {
+      margin: 0 0 6px;
+      font-size: 1.2rem;
+    }
+
+    .info-line {
+      margin: 4px 0;
+      font-size: 0.95rem;
+    }
+
+    #resultsCount {
+      font-weight: 600;
+      font-size: 1.1rem;
+      margin-bottom: 12px;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <header>Dine with Ding — Restaurant Search</header>
+
+  <div class="container">
+    <!-- SIDEBAR FILTERS -->
+    <div class="sidebar">
+      <h2>Filters</h2>
+
+      <label>Cuisine</label>
+      <select id="cuisineSelect" multiple></select>
+
+      <label>Price</label>
+      <select id="priceSelect" multiple></select>
+
+      <label>Mood</label>
+      <select id="moodSelect" multiple></select>
+
+      <label>Restaurant Name</label>
+      <input id="nameSearch" type="text" placeholder="Search..." style="
+        width:100%;padding:10px;border-radius:8px;border:1px solid #ccc;
+      ">
+
+      <button id="resetBtn" style="
+        margin-top:14px;width:100%;padding:10px;border:none;border-radius:8px;
+        background:#111;color:white;font-size:1rem;cursor:pointer;
+      ">
+        Reset Filters
+      </button>
+    </div>
+
+    <!-- RESULTS -->
+    <div class="results">
+      <div id="resultsCount"></div>
+      <div id="resultsContainer"></div>
+    </div>
+
+  </div>
+
+  <script>
+    const CSV_FILE = "foodie_data.csv";
+    const PHOTOS_DIR = "photos";
+
+    function imgPath(index) {
+      return `${PHOTOS_DIR}/IMG_${index + 2}.jpeg`;
+    }
+
+    let rawData = [];
+    let cuisineChoices, priceChoices, moodChoices;
+
+    Papa.parse(CSV_FILE, {
+      download: true,
+      header: true,
+      complete: (results) => {
+        rawData = results.data.map((row, index) => ({
+          __index: index,
+          Restaurant: row["Restaurant"],
+          Cuisine: row["Cuisine"],
+          Price: row["Price ($-$$$)"],
+          Mood: row["Mood"],
+          Dishes: row["Dish(es)"]
+        }));
+
+        initFilters();
+        applyFilters();
+      }
+    });
+
+    function initFilters() {
+      const cuisines = [...new Set(rawData.map(r => r.Cuisine))].filter(Boolean).sort();
+      const prices = [...new Set(rawData.map(r => r.Price))].filter(Boolean).sort();
+      const moods = [...new Set(rawData.map(r => r.Mood))].filter(Boolean).sort();
+
+      function populate(select, items) {
+        select.innerHTML = "";
+        items.forEach(i => {
+          const opt = document.createElement("option");
+          opt.value = i;
+          opt.textContent = i;
+          select.appendChild(opt);
+        });
+      }
+
+      populate(document.getElementById("cuisineSelect"), cuisines);
+      populate(document.getElementById("priceSelect"), prices);
+      populate(document.getElementById("moodSelect"), moods);
+
+      cuisineChoices = new Choices("#cuisineSelect", { removeItemButton: true });
+      priceChoices = new Choices("#priceSelect", { removeItemButton: true });
+      moodChoices = new Choices("#moodSelect", { removeItemButton: true });
+
+      document.getElementById("cuisineSelect").addEventListener("change", applyFilters);
+      document.getElementById("priceSelect").addEventListener("change", applyFilters);
+      document.getElementById("moodSelect").addEventListener("change", applyFilters);
+
+      document.getElementById("nameSearch").addEventListener("input", () => applyFilters());
+
+      document.getElementById("resetBtn").addEventListener("click", () => {
+        cuisineChoices.clearStore();
+        priceChoices.clearStore();
+        moodChoices.clearStore();
+        document.getElementById("nameSearch").value = "";
+        applyFilters();
+      });
+    }
+
+    function applyFilters() {
+      const cuisines = cuisineChoices.getValue(true);
+      const prices = priceChoices.getValue(true);
+      const moods = moodChoices.getValue(true);
+      const nameSearch = document.getElementById("nameSearch").value.toLowerCase();
+
+      const filtered = rawData.filter(r => {
+        if (cuisines.length && !cuisines.includes(r.Cuisine)) return false;
+        if (prices.length && !prices.includes(r.Price)) return false;
+        if (moods.length && !moods.includes(r.Mood)) return false;
+        if (nameSearch && !r.Restaurant.toLowerCase().includes(nameSearch)) return false;
+        return true;
+      });
+
+      renderResults(filtered);
+    }
+
+    function renderResults(list) {
+      document.getElementById("resultsCount").textContent =
+        list.length ? `Found ${list.length} results:` : "No results found.";
+
+      const container = document.getElementById("resultsContainer");
+      container.innerHTML = "";
+
+      list.forEach(r => {
+        const card = document.createElement("div");
+        card.className = "result-card";
+
+        const img = document.createElement("img");
+        img.src = imgPath(r.__index);
+        img.onerror = () => img.style.display = "none";
+
+        const info = `
+          <h3>${r.Restaurant}</h3>
+          <div class="info-line"><strong>Cuisine:</strong> ${r.Cuisine}</div>
+          <div class="info-line"><strong>Price:</strong> ${r.Price}</div>
+          <div class="info-line"><strong>Mood:</strong> ${r.Mood}</div>
+          <div class="info-line"><strong>Dishes:</strong> ${r.Dishes}</div>
+        `;
+
+        const meta = document.createElement("div");
+        meta.innerHTML = info;
+
+        card.appendChild(img);
+        card.appendChild(meta);
+
+        container.appendChild(card);
+      });
+    }
+  </script>
+
+</body>
+
+</html>
+
